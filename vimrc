@@ -1,0 +1,1 @@
+/Users/naoya/.vimrc

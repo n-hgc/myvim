@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/naoya/Documents/NULABEL/plugins'
+let g:netrw_dirhist_6='/Users/naoya/Dropbox (NEWPEACE Inc.)/NEWPEACE Inc. チームフォルダ/自社プロダクト/comcom/Biz documents'
+let g:netrw_dirhist_5='/Users/naoya/Documents/memos/42tokyo/c09/ex01/srcs'
+let g:netrw_dirhist_4='/Users/naoya/Documents/memos/42tokyo/c09/ex01'
+let g:netrw_dirhist_3='/Users/naoya/Documents/memos/42tokyo/c09/ex01/includes'
+let g:netrw_dirhist_2='/Users/naoya/Documents/memos/42tokyo/c09/ex01/srcs'
+let g:netrw_dirhist_1='/Users/naoya/Documents/memos/42tokyo/c09/ex00'
